@@ -17,4 +17,21 @@
 > Fragment adalah sebuah reuseable class yang mengimplement beberapa fitur sebuah Activity. Fragment biasanya dibuat sebagai bagian dari suatu antarmuka. Sebuah fragment harus berada di dalam sebuah activity, mereka tidak dapat berjalan sendiri tanpa adanya activity tempat mereka menempel.
 
 # Form
+![Screenshot_2020-10-16-21-19-19-90_4c2b6e89b33eb4b7cb288dc8ffb2dfb3](https://user-images.githubusercontent.com/60590053/96279164-86a5f680-1000-11eb-8e84-6a287ddaf046.png)
 
+> Jika kolom data tidak diisi akan tampil pop-up peringatan. Fitur ini adalah fitur Toast.
+
+![Screenshot_2020-10-16-21-19-48-29_4c2b6e89b33eb4b7cb288dc8ffb2dfb3](https://user-images.githubusercontent.com/60590053/96279194-8d346e00-1000-11eb-896b-e58a009b0aca.png)
+
+> Data dapat disimpan apabila semua kolom telah terisi.
+
+![Screenshot_2020-10-16-21-21-46-70_4c2b6e89b33eb4b7cb288dc8ffb2dfb3](https://user-images.githubusercontent.com/60590053/96279207-902f5e80-1000-11eb-9816-668824ba9339.png)
+
+# Tampilan List Data
+> Data yang telah di inputkan akan tampil dalam bentuk List Data pada tampilan awal. Fitur ini menggunakan Recycler View.
+
+> Untuk menambahkan kembali data teman, terdapat Floating Action Button/FAB di pojok kanan bawah. FAB adalah tombol lingkaran yang memicu tindakan utama di UI aplikasi
+
+![Screenshot_2020-10-16-20-57-35-06_4c2b6e89b33eb4b7cb288dc8ffb2dfb3](https://user-images.githubusercontent.com/60590053/96279222-94f41280-1000-11eb-8b75-f8963f6618ce.png)
+
+# Terima Kasih
